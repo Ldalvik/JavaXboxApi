@@ -15,7 +15,7 @@ public class Main {
 
         Endpoints root = new Endpoints();
 
-        String xuid = root.XUID("Ventralkillakam");
+        String xuid = root.XUID("My Name Is Root");
         System.out.println("XUID of user is: " + xuid);
 
         String profileJson = root.Profile(xuid);
