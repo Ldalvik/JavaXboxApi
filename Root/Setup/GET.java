@@ -13,9 +13,9 @@ public class GET {
     /*
     https://xboxapi.com to get a free api key
     (you can buy subscriptions if you plan on having lots of traffic on the endpoints.
-    A Paid subscription also allows you to send messages. (See class "POST.Message"
+    A Paid subscription also allows you to send messages. (See class "POST.Message")
      */
-    private static String API_KEY = "efd8dce102b4fbb0bda1767ccbbc7f46fb40e726";
+    private static String API_KEY = "YOUR_API_KEY";
 
     public static String Default(String endpoint) {
 
